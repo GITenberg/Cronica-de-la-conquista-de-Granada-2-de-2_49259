@@ -1,9 +1,13 @@
 _repo: Cronica-de-la-conquista-de-Granada-2-de-2_49259
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Montgomery, Jorge W.
     gutenberg_agent_id: '45227'
     url: http://www.gutenberg.org/2009/agents/45227
+covers:
+- cover_type: archival
+  image_path: 49259-h/images/cover.jpg
 creator:
   author:
     agent_name: Irving, Washington
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34
     wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49259#Cronica-de-la-conquista-de-Granada-2-de-2
 gutenberg_issued: '2015-06-22'
 gutenberg_type: Text
 identifiers:
